@@ -1,0 +1,9 @@
+Main idea: allow the user to switch between audio input and ouput devices utilizing key commands
+
+Tech:
+    - Back end: Flask(Python)
+    - Front end: Electron(Javascript, HTML, CSS)
+
+Features:
+    - UI where the user can select the devices to switch between
+        - Users will also be able assign specific hotkeys for the input and ouput menus
